@@ -731,4 +731,4 @@ const FinancialPlatform = () => {
 };
 
 export default FinancialPlatform;
-Initial financial platform
+commit message: Add main app component
